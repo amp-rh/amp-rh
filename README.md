@@ -12,9 +12,9 @@ Previously: Software Quality Engineer → AI/ML Platform Engineer at Red Hat, wh
 
 | Project | What it does |
 |---------|-------------|
-| [interop_llm_tools](https://github.com/amp-rh/interop_llm_tools) | RAG pipeline for CI failure triage — LlamaIndex + ChromaDB + knowledge graphs. **Reduced MTTR 40%** at Red Hat. |
+| [ci-triage-rag](https://github.com/amp-rh/ci-triage-rag) | RAG pipeline for CI failure triage — LlamaIndex + ChromaDB + knowledge graphs. **Reduced MTTR 40%** at Red Hat. |
 | [agent-bridge](https://github.com/amp-rh/agent-bridge) | Container image that deploys Claude agents as services via MCP + A2A protocols. One image, many agents. |
-| [mcp](https://github.com/amp-rh/mcp) | Production MCP router with multi-backend aggregation, circuit breakers, and three routing strategies. 50+ tests. |
+| [mcp-router](https://github.com/amp-rh/mcp-router) | Production MCP router with multi-backend aggregation, circuit breakers, and three routing strategies. 50+ tests. |
 | [notebooklm-agent-plugin](https://github.com/amp-rh/notebooklm-agent-plugin) | MCP server + agent integration kit for Google NotebookLM with Cursor and Claude Code support. |
 
 ## Tech stack
