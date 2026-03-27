@@ -4,7 +4,7 @@ Python engineer. I gravitate toward the hardest problem in the room regardless o
 
 ## What I build
 
-At Red Hat, I built an LLM/RAG pipeline that automated CI failure triage across OpenShift's test infrastructure, cutting mean time to resolution by 40%. I own CI/CD infrastructure across 30+ repos, integrated secret scanning into CI pipelines, and built Grafana Loki dashboards that identified EC2 bottlenecks behind a 30% test failure reduction.
+At Red Hat, I built an LLM/RAG pipeline that automated CI failure triage across OpenShift's test infrastructure, significantly reducing incident resolution time. I own CI/CD infrastructure across 30+ repos, integrated secret scanning into CI pipelines, and built a Grafana Loki PoC for querying failure patterns across distributed test environments.
 
 Now I'm building agent deployment and orchestration platforms: containerized Claude agents that communicate via MCP and A2A protocols, deployed on Cloud Run with OAuth 2.1 auth and self-registration through Pub/Sub and Firestore.
 
